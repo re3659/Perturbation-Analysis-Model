@@ -1,5 +1,5 @@
 # Model-for-perturbation-analysis
-This repository contains the code used in the master's thesis "Expanding a Stance Model to Scale Impulse and Analyze Passive Stability" by Joshua Goldberg. Featured is the model used for perturbation analysis. There is one code Jupyter Notebook code file (Working_model.ipynb), featuring four code blocks, and a folder (Data For Analysis) which houses the csv files used for analysis.
+This repository contains the code used in the master's thesis "Expanding a Stance Model to Scale Impulse and Analyze Passive Stability" by Joshua Goldberg. Featured is the model used for perturbation analysis. There is one Jupyter Notebook code file (Working_model.ipynb) featuring four code blocks, and a folder (Data For Analysis) which houses the csv files used for analysis.
 ![Model](flySplayModel.png)
 
 ### Simulating the Models
