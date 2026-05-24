@@ -13,4 +13,4 @@ MuJoCo must be installed in order to run this model. We have verified the code i
 [https://github.com/deepmind/mujoco/releases](url)
 
 ### Associated Work
-[1] Goldberg JD. Expanding a Stance Model to Scale Impulse and Analyze Passive Stability, In-proceedings
+[1] Goldberg, J. (2026). Expanding a Stance Model to Scale Impulse and Analyze Passive Stability [Master's thesis, Case Western Reserve University]. OhioLINK Electronic Theses and Dissertations Center. [http://rave.ohiolink.edu/etdc/view?acc_num=case1775769721335249](url)
